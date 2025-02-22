@@ -1,6 +1,6 @@
-# MediAI - Healthcare AI System
+# HealthAssis - Healthcare AI System
 
-MediAI is an AI-powered healthcare application designed to assist medical professionals and patients by leveraging advanced machine learning models for diagnostics, predictions, and analysis.
+HealthAssis is an AI-powered healthcare application designed to assist medical professionals and patients by leveraging advanced machine learning models for diagnostics, predictions, and analysis.
 
 ## Features
 
@@ -12,13 +12,13 @@ MediAI is an AI-powered healthcare application designed to assist medical profes
 
 ## Installation and Setup
 
-To set up the **MediAI** project on your local machine, follow these steps:
+To set up the **HealthAssis** project on your local machine, follow these steps:
 
 ### 1. Clone the Repository
 
 ```
-git clone https://github.com/your-username/MediAI.git
-cd MediAI
+git clone https://github.com/your-username/HealthAssis.git
+cd HealthAssis
 ```
 
 ### 2. Set Up the Virtual Environment
@@ -49,11 +49,11 @@ pip install -r requirements.txt
 Once all dependencies are installed, you can start the application:
 
 ```
-python medi.py
+python HealthAssis.py
 ```
-# MediAI - Healthcare AI System
+# HealthAssis - Healthcare AI System
 
-MediAI is an AI-powered healthcare application designed to assist medical professionals and patients by leveraging advanced machine learning models for diagnostics, predictions, and analysis.
+HealthAssis is an AI-powered healthcare application designed to assist medical professionals and patients by leveraging advanced machine learning models for diagnostics, predictions, and analysis.
 
 ## Features
 
@@ -65,13 +65,13 @@ MediAI is an AI-powered healthcare application designed to assist medical profes
 
 ## Installation and Setup
 
-To set up the **MediAI** project on your local machine, follow these steps:
+To set up the **HealthAssis** project on your local machine, follow these steps:
 
 ### 1. Clone the Repository
 
 ```
-git clone https://github.com/your-username/MediAI.git
-cd MediAI
+git clone https://github.com/your-username/HealthAssis.git
+cd HealthAssis
 ```
 
 ### 2. Set Up the Virtual Environment
@@ -107,7 +107,7 @@ python app.py
 
 ## Installation Requirements
 
-The following dependencies are required for the **MediAI** project. These are specified in the `requirements.txt` file:
+The following dependencies are required for the **HealthAssis** project. These are specified in the `requirements.txt` file:
 
 ```
 flask==2.2.5
@@ -134,7 +134,7 @@ pip install flask numpy pandas tensorflow torch scikit-learn opencv-python matpl
 
 1. Open the application in your browser.
 2. Upload medical images or input symptoms.
-3. Let MediAI analyze and provide insights.
+3. Let HealthAssis analyze and provide insights.
 4. View and download reports.
 
 ## Technologies Used

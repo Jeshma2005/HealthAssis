@@ -21,13 +21,13 @@ def healthcare_chatbot (user_input):
 
 def main():
     
-    st.title("MediSense")
+    st.title("HealthAssis")
     user_input = st.text_input("How can i assist you today?")
     if st.button("Submit"):
         if user_input:
             st.write("User: ",user_input)
             response=healthcare_chatbot(user_input)  
-            st.write("MediSense:",response)
+            st.write("HealthAssis:",response)
         else:
             st.write("Please enter a message to get a response.")
        
